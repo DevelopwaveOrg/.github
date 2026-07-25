@@ -4,21 +4,10 @@
 
 ### Custom Software Engineering Studio | AI-Powered Web Applications & Automation
 
-<a href="https://developwave.com">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="34" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/company/developwave">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/developwave/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/DevelopWaveHq">
-  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="34" />
-</a>
+🌐 **[Website](https://developwave.com)** •
+💼 **[LinkedIn](https://www.linkedin.com/company/developwave)** •
+📷 **[Instagram](https://www.instagram.com/developwave/)** •
+𝕏 **[X](https://x.com/DevelopWaveHq)**
 
 </div>
 
