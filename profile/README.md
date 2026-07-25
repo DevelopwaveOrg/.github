@@ -76,7 +76,7 @@ Our core developers actively contribute to the tech community. They utilize thei
 Looking for an expert team to architect your next digital product or optimize your current software infrastructure? Let's connect and discuss your technical requirements.
 
 * **Official Website:** Explore our full service catalog and read our latest case studies at [developwave.com](https://developwave.com).
-* **Get a Technical Consultation:** Reach out directly through our [Developwave Contact Form](https://developwave.com) to request a project roadmap and transparent budget estimation.
+* **Get a Technical Consultation:** Reach out directly through our [Developwave Contact Form](https://developwave.com/contact) to request a project roadmap and transparent budget estimation.
 * **Corporate Updates:** Follow our company milestone announcements on the [Developwave LinkedIn Page](https://linkedin.com/company/developwave).
 * **Behind the Scenes:** See our team culture and engineering insights on [Instagram @developwave](https://instagram.com/developwave).
 
