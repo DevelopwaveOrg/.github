@@ -4,14 +4,21 @@
 
 ### Custom Software Engineering Studio | AI-Powered Web Applications & Automation
 
+<a href="https://developwave.com">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=googlechrome&logoColor=white&color=0A66C2" height="35" alt="Website"/>
+</a>
 
-[![Website](https://img.shields.io/badge/Website-developwave.com-0A66C2?style=for-the-badge)](https://developwave.com)
+<a href="https://www.linkedin.com/company/developwave">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35" alt="LinkedIn"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Developwave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/developwave)
+<a href="https://www.instagram.com/developwave/">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" height="35" alt="Instagram"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@developwave-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developwave/)
-
-[![X](https://img.shields.io/badge/X-@DevelopWaveHq-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevelopWaveHq)
+<a href="https://x.com/DevelopWaveHq">
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&color=000000" height="35" alt="X"/>
+</a>
 
 </div>
 
