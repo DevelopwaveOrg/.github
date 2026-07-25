@@ -5,19 +5,19 @@
 ### Custom Software Engineering Studio | AI-Powered Web Applications & Automation
 
 <a href="https://developwave.com">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=googlechrome&logoColor=white&color=0A66C2" height="35" alt="Website"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="34" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/company/developwave">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/developwave/">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" height="35" alt="Instagram"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/DevelopWaveHq">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=white&color=000000" height="35" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="34" />
 </a>
 
 </div>
