@@ -4,10 +4,14 @@
 
 ### Custom Software Engineering Studio | AI-Powered Web Applications & Automation
 
-[![Website](https://shields.io)](https://developwave.com)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/company/developwave)
-[![Instagram](https://shields.io)](https://www.instagram.com/developwave/)
-[![X](https://shields.io)](https://x.com/DevelopWaveHq)
+
+[![Website](https://img.shields.io/badge/Website-developwave.com-0A66C2?style=for-the-badge)](https://developwave.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Developwave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/developwave)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@developwave-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developwave/)
+
+[![X](https://img.shields.io/badge/X-@DevelopWaveHq-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevelopWaveHq)
 
 </div>
 
